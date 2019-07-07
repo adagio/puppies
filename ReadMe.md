@@ -1,14 +1,13 @@
 Puppies, Django and Vue Integration
+===================================
 
-================================
 
-Link to Medium Article
-https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a
+[Link to Medium Article by @rodrigomaniotto](https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a)
 
 
 Postgres DB
 -----------
-Using [Postgres Docker stack](e1a7b6edbc0f2c21e32e0cec30a07baa)
+Using [Postgres Docker stack](https://gist.github.com/adagio/e1a7b6edbc0f2c21e32e0cec30a07baa)
 
 
 Basic Commands
